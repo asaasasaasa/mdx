@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@mintlify/mdx": "workspace:^",
+    "@mintlify/mdx": "0.0.2",
     "@radix-ui/react-popover": "^1.1.15",
     "next": "15.4.2",
     "react": "18.3.1",
